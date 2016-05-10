@@ -1,5 +1,7 @@
 # Remove  duplicated files on OS X and Linux
 
+[![Join the chat at https://gitter.im/frapsoft/doc-remove-duplicated-files-osx-linux](https://badges.gitter.im/frapsoft/doc-remove-duplicated-files-osx-linux.svg)](https://gitter.im/frapsoft/doc-remove-duplicated-files-osx-linux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Quick Tutorial how to find and delete duplicated files on a UNIX based system.  
 I wasted quite some time to find this nice tool, so hopefully i can help save your time. 
 
